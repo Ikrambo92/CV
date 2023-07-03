@@ -439,12 +439,17 @@ a {
 
 
 /* Education */
-.education-container,
-.hobbies-container {
+.education-container {
     text-align: justify;
     height: auto;
     padding: 20px;
 }
+
+.hobbies-container {
+    height: auto;
+    padding: 20px;
+}
+
 
 .reference {
     width: 100%;
